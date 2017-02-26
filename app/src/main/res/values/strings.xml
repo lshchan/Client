@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ClientStart!</string>
+    <string name="app_name">Client</string>
+    <string name="device_test">Device Control Interface is starting!</string>
+</resources>

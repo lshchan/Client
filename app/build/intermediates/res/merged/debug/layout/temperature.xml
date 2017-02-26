@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+
+    <TextView
+        android:id="@+id/outcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+
+        android:layout_weight="0.10">
+    </TextView>
+<LinearLayout
+android:id="@+id/widget36"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:orientation="vertical"
+
+>
+
+</LinearLayout>
+<Button
+android:id="@+id/search"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="&#28201;&#24230;&#26597;&#35810;"
+
+>
+</Button>
+<Button
+android:id="@+id/update"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="&#21047;&#26032;"
+
+>
+</Button>
+<Button
+android:id="@+id/back"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="&#36820;&#22238;"
+
+>
+</Button>
+
+</LinearLayout>

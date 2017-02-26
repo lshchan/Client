@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+    android:id="@+id/widget0"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <TextView
+        android:id="@+id/widget37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&#26381;&#21153;&#22120;&#30005;&#35805;&#65306;"
+        android:layout_x="9dp"
+        android:layout_y="10dp"
+        >
+    </TextView>
+
+    <EditText
+        android:id="@+id/server_tel"
+        android:layout_width="120dp"
+        android:layout_height="34dp"
+        android:layout_x="113dp"
+        android:layout_y="9dp"
+        android:textSize="12sp" >
+
+    </EditText>
+
+    <TextView
+        android:id="@+id/widget38"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&#30005;&#22120;&#25511;&#21046;&#26041;&#24335;&#65306;"
+        android:layout_x="11dp"
+        android:layout_y="71dp"
+        >
+    </TextView>
+
+    <EditText
+        android:id="@+id/planstart_time"
+        android:layout_width="94dp"
+        android:layout_height="wrap_content"
+        android:layout_x="114dp"
+        android:layout_y="323dp"
+        android:ems="10"
+        android:text="09:00"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/edit_ip"
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:layout_x="78dp"
+        android:layout_y="373dp"
+        android:ems="10"
+        android:text="127.0.0.1"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/widget56"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Server_IP:"
+        android:layout_x="4dp"
+        android:layout_y="375dp"
+        >
+    </TextView>
+
+    <TextView
+        android:id="@+id/widget52"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&#39044;&#26696;&#24320;&#21551;&#26102;&#21051;&#65306;"
+        android:layout_x="5dp"
+        android:layout_y="333dp"
+        >
+    </TextView>
+
+    <TextView
+        android:id="@+id/widget49"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&#24320;&#21551;&#22825;&#27668;&#39044;&#26696;&#25552;&#31034;&#65306;"
+        android:layout_x="1dp"
+        android:layout_y="295dp"
+        >
+    </TextView>
+
+    <CheckBox
+        android:id="@+id/checkbox_plan"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_x="147dp"
+        android:layout_y="284dp"
+        android:text="是" />
+
+    <EditText
+        android:id="@+id/frequence"
+        android:layout_width="81dp"
+        android:layout_height="wrap_content"
+        android:layout_x="127dp"
+        android:layout_y="234dp"
+        android:ems="10"
+        android:text="60"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/widget48"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="227dp"
+        android:layout_y="245dp"
+        android:text="秒/次" />
+
+    <TextView
+        android:id="@+id/city_text"
+        android:layout_width="wrap_content"
+        android:layout_height="26dp"
+        android:text="&#22478;&#24066;&#21517;&#31216;&#65288;&#25340;&#38899;&#65289;&#65306;"
+        android:layout_x="13dp"
+        android:layout_y="203dp"
+        >
+    </TextView>
+
+    <EditText
+        android:id="@+id/edit_city"
+        android:layout_width="149dp"
+        android:layout_height="38dp"
+        android:layout_x="148dp"
+        android:layout_y="199dp"
+        android:text="Beijing"
+        android:textSize="12sp" >
+
+    </EditText>
+
+    <CheckBox
+        android:id="@+id/checkbox01"
+        android:layout_width="82dp"
+        android:layout_height="28dp"
+        android:layout_x="143dp"
+        android:layout_y="167dp"
+        android:checked="true"
+        android:text="是" />
+
+    <TextView
+        android:id="@+id/location_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&#25552;&#20379;&#23450;&#20301;&#30701;&#20449;&#26381;&#21153;&#65306;"
+        android:layout_x="8dp"
+        android:layout_y="167dp"
+        >
+    </TextView>
+
+    <TextView
+        android:id="@+id/widget46"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="&#26356;&#26032;&#39057;&#29575;&#65306;"
+        android:layout_x="19dp"
+        android:layout_y="238dp"
+        >
+    </TextView>
+
+    <EditText
+        android:id="@+id/edit_com"
+        android:layout_width="103dp"
+        android:layout_height="wrap_content"
+        android:layout_x="246dp"
+        android:layout_y="370dp"
+        android:ems="10"
+        android:text="5432"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/widget58"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="190dp"
+        android:layout_y="374dp"
+        android:text="端口：" />
+
+    <Button
+        android:id="@+id/sysreset"
+        android:layout_width="124dp"
+        android:layout_height="wrap_content"
+        android:layout_x="155dp"
+        android:layout_y="428dp"
+        android:text="取消系统设置"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/apply"
+        android:layout_width="122dp"
+        android:layout_height="wrap_content"
+        android:layout_x="16dp"
+        android:layout_y="429dp"
+        android:text="应用系统设置"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radiogroup"
+        android:orientation="horizontal"
+        android:layout_x="133dp"
+        android:layout_y="52dp"
+        >
+
+
+    <RadioButton
+        android:id="@+id/radiobutton_sms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="236dp"
+        android:layout_y="58dp"
+        android:checked="true"
+        android:text="短信       " />
+
+
+        <RadioButton
+            android:id="@+id/radiobutton_blue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="209dp"
+            android:layout_y="95dp"
+            android:text="蓝牙" />
+
+    </RadioGroup>
+
+
+</AbsoluteLayout>

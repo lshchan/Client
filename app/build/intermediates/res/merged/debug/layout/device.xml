@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+android:id="@+id/widget0"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+
+    <TextView
+android:id="@+id/StateOutput"
+android:layout_width="97px"
+android:layout_height="31px"
+android:text=""
+android:layout_x="105px"
+android:layout_y="86px"
+>
+</TextView>
+
+    <Button
+    android:id="@+id/back"
+    android:layout_width="108px"
+    android:layout_height="wrap_content"
+    android:text="返回"
+    android:layout_x="264dp"
+    android:layout_y="214dp"
+    >
+    </Button>
+
+    <Button
+    android:id="@+id/SearchState"
+    android:layout_width="199px"
+    android:layout_height="wrap_content"
+    android:text="查看电器状态"
+    android:layout_x="20dp"
+    android:layout_y="219dp"
+    >
+    </Button>
+
+    <Button
+    android:id="@+id/UpdateState"
+    android:layout_width="199px"
+    android:layout_height="wrap_content"
+    android:text="修改电器状态"
+    android:layout_x="143dp"
+    android:layout_y="213dp"
+    >
+    </Button>
+</AbsoluteLayout>
+

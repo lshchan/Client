@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="edu.neusoft.Client"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name=".common.ClientStart"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+    	
+        </activity>
+		<activity android:name=".device.DeviceControl">
+        </activity>
+		<activity android:name=".SystemSet.SystemSet">
+        </activity >
+        <activity android:name=".device.Lights">
+		</activity>
+		<activity android:name=".personposition.PersonPosition">
+		</activity>
+		<activity android:name=".temperature.Temperature">
+		</activity>
+		<activity android:name=".Weather.Weather01.Lixiang.Weather01"/>
+        <activity android:name=".Weather.Weather01.Lixiang.Lx_weather"/>
+        <activity android:name=".Weather.Weather01.Lixiang.Lx_history"/>
+        <activity android:name=".Weather.Weather01.Lixiang.Lx_setup"/>
+		<receiver android:name=".Weather.Weather01.Service.lx_SmsReceiver" >
+      		<intent-filter> 
+        		<action android:name="android.provider.Telephony.SMS_RECEIVED" 
+
+			/> 
+      		</intent-filter>
+    	</receiver>
+    	<service android:name=".Weather.Weather01.Service.lx_WeatherService"/>
+    </application>
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+  	<uses-permission android:name="android.permission.RECEIVE_SMS"/>
+  	<uses-permission android:name="android.permission.SEND_SMS"/>
+  	
+    <uses-sdk android:minSdkVersion="7" />
+
+</manifest> 

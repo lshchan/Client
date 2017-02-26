@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\light.xml",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\layout\\light.xml"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function.xml",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\layout\\function.xml"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lx_setup.xml",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\layout\\lx_setup.xml"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lx_datarow.xml",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\layout\\lx_datarow.xml"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\devicecontrol.xml",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\layout\\devicecontrol.xml"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lx_history.xml",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\layout\\lx_history.xml"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\system_set.xml",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\layout\\system_set.xml"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lx_weather.xml",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\layout\\lx_weather.xml"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\temperature.xml",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\layout\\temperature.xml"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device.xml",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\layout\\device.xml"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sln.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\sln.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\setup.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\chat.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\device.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\device.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stat_sample.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\stat_sample.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_setup.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\tab_setup.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\open.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\open.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bluetoothchat.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\bluetoothchat.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\position.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\position.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_history.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\tab_history.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_weather.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\tab_weather.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weathersln.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\weathersln.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sunny.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\sunny.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\app.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "E:\\android\\Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send.png",
+        "source": "E:\\android\\Client\\app\\src\\main\\res\\drawable-hdpi\\send.png"
+    }
+]
